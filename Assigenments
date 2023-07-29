@@ -1,0 +1,13 @@
+Create the below table named store_sales.
+
+INSERT INTO store_sales (sale_date, product_name, sale_amount)
+VALUES
+    ('2023-01-01', 'Fruits', 45000),
+    ('2023-01-01', 'Vegetables', 67000),
+    ('2023-01-01', 'Dairy', 55000),
+    ('2023-02-01', 'Fruits', 42000),
+    ('2023-02-01', 'Vegetables', 32000),
+    ('2023-02-01', 'Dairy', 52000),
+    ('2023-03-01', 'Fruits', 61000),
+    ('2023-03-01', 'Vegetables', 43000),
+    ('2023-03-01', 'Dairy', 92000);
